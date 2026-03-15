@@ -1,16 +1,13 @@
 <div align="center">
 
-<!-- HEADER BANNER - wider, not pill-shaped, better proportions -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,40:302b63,100:6d28d9&height=280&section=header&text=Renish%20Batada&fontSize=72&fontColor=ffffff&fontAlignY=42&animation=fadeIn&desc=AI%20Engineer%20%E2%80%A2%20LLM%20Systems%20%E2%80%A2%20Agentic%20Pipelines&descAlignY=62&descSize=18&descColor=c4b5fd" width="100%"/>
 
 <br/>
 
-<!-- TYPING ANIMATION -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=Building+AI+that+thinks%2C+not+just+responds.;RAG+%7C+LangGraph+%7C+Multi-Agent+Systems;Turning+LLMs+into+production-grade+solutions." alt="Typing SVG" />
 
 <br/><br/>
 
-<!-- SOCIAL BADGES -->
 <a href="https://renishbatada.com"><img src="https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-renishbatada.com-7c3aed?style=for-the-badge&labelColor=1e1b4b"/></a>
 &nbsp;
 <a href="https://linkedin.com/in/renish-batada"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1e1b4b"/></a>
@@ -29,29 +26,7 @@
 
 <br/>
 
-<!-- PHOTO LEFT — ABOUT RIGHT — both much larger now -->
-<table>
-<tr>
-<td width="38%" align="center" valign="middle">
-
-<br/>
-
-<img src="https://lh3.googleusercontent.com/d/11PmsTZTTKK8nCV_sx69LC7859ewmGF28" width="260" alt="Renish Batada — AI Engineer"/>
-
-<br/><br/>
-
-**`AI Engineer · Python · LLM Systems`**
-
-<br/>
-
-📍 Ahmedabad, India &nbsp;|&nbsp; 🏢 Third Rock Techkno LLP
-
-<br/>
-
-</td>
-<td width="62%" valign="middle">
-
-<br/>
+## 🧠 About Me
 
 ```yaml
 👤  name         : Renish Batada
@@ -83,12 +58,6 @@
 
 <br/>
 
-</td>
-</tr>
-</table>
-
-<br/>
-
 ---
 
 <br/>
@@ -112,7 +81,7 @@
 <td align="center" width="25%">
 <img src="https://img.shields.io/badge/🌍_3_Stages-Global_Events-6d28d9?style=for-the-badge&labelColor=1e1b4b"/>
 <br/><br/>
-<sub>AI demos at BETT UK,<br/>GESS Dubai & DIDAC</sub>
+<sub>AI POC created by me demonstrates by leadership at BETT UK,<br/>GESS Dubai & DIDAC</sub>
 </td>
 <td align="center" width="25%">
 <img src="https://img.shields.io/badge/📊_4800+-Records_Automated-a21caf?style=for-the-badge&labelColor=1e1b4b"/>
@@ -342,8 +311,6 @@
 <br/>
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2e1065,50:4a1d96,100:6d28d9&height=160&section=footer&text=Let's%20Connect%20%26%20Build%20Together&fontSize=28&fontColor=e9d5ff&fontAlignY=65&animation=fadeIn" width="100%"/>
 
 <br/>
 
